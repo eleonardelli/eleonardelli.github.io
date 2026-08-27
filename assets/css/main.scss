@@ -297,3 +297,22 @@ $max-content-width: {{ site.max_width }};
 .navbar-social-links .contact-icons > * {
   margin: 0 !important;
 }
+
+/* Definitive spacing for navbar social icons */
+
+.navbar-social-links .contact-icons a {
+  display: inline-flex !important;
+  padding-right: 7px !important;
+  padding-left: 7px !important;
+  margin: 0 !important;
+}
+
+.navbar-social-links .contact-icons {
+  margin-left: 8px !important;
+}
+/* Publication year headings */
+
+.publications h2 {
+  color: #6d929e !important;
+  opacity: 1;
+}
