@@ -27,5 +27,5 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm **Elisa Leonardelli**, a researcher in Natural Language Processing with a background in cognitive neuroscience and bioengineering. I currently work as a Postdoctoral Researcher at the <a href='https://dh.fbk.eu/'>Digital Humanities group</a>, at the <a href='https://www.fbk.eu/en/'>Fondazione Bruno Kessler</a> (FBK) in Trento, Italy, where I contribute to European research projects focused on AI, online discourse, and social impact. My work bridges technology and society, combining technical expertise in machine learning and data science with a deep interest in how people interact with information.
+I'm **Elisa Leonardelli**, a researcher in Natural Language Processing with a background in cognitive neuroscience and bioengineering. I currently work as a Postdoctoral Researcher at the <strong><a href="https://dh.fbk.eu/">Digital Humanities group</a></strong>, at the <strong><a href='https://www.fbk.eu/en/'>Fondazione Bruno Kessler</a></strong> (FBK) in Trento, Italy, where I contribute to European research projects focused on AI, online discourse, and social impact. My work bridges technology and society, combining technical expertise in machine learning and data science with a deep interest in how people interact with information.
 
