@@ -360,14 +360,16 @@ ninja.data = [{
       },{id: "news-june-2025-the-test-set-of-the-3rd-edition-of-the-lewidi-shared-task-on-learning-with-annotator-disagreement-in-nlp-has-been-released-the-task-part-of-the-nlperspectivist-workshop-colocated-with-emnlp-2025-to-find-out-more-get-the-data-and-participate-go-the-our-competition-page",
           title: '📢 June 2025 –The test set of the 3rd Edition of the LeWiDi...',
           description: "",
+          section: "News",},{id: "news-i-am-co-organizing-nl4ai-2026-the-9th-workshop-on-natural-language-for-artificial-intelligence-co-located-with-aixia-2026-in-perugia-check-out-the-call-for-papers",
+          title: 'I am co-organizing NL4AI 2026 – the 9th Workshop on Natural Language for...',
+          description: "",
+          section: "News",},{id: "news-our-paper-real-men-are-tough-evaluating-gender-bias-and-sensitivity-to-masculinity-norms-in-llms-was-published-in-findings-of-acl-2026-read-the-paper",
+          title: 'Our paper “Real Men are Tough: Evaluating Gender Bias and Sensitivity to Masculinity...',
+          description: "",
+          section: "News",},{id: "news-our-paper-annotators-of-a-feather-flocke-together-a-framework-to-analyze-latent-group-patterns-based-on-annotator-behavior-with-giovanni-valer-camilla-casula-sara-tonelli-and-michele-lombardi-has-been-accepted-at-emnlp-2026",
+          title: 'Our paper “Annotators of a Feather FLOCKE Together: A Framework to Analyze Latent...',
+          description: "",
           section: "News",},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%65%6C%65%6F%6E%61%72%64%65%6C%6C%69@%66%62%6B.%65%75", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -381,30 +383,4 @@ ninja.data = [{
         handler: () => {
           window.open("https://scholar.google.com/citations?user=rIyfnIkAAAAJ&hl", "_blank");
         },
-      },{
-      id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("light");
-      },
-    },
-    {
-      id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("dark");
-      },
-    },
-    {
-      id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("system");
-      },
-    },];
+      },];
