@@ -7,6 +7,7 @@ description: "Elisa Leonardelli — NLP researcher at Fondazione Bruno Kessler w
 url: "https://eleonardelli.github.io"
 baseurl: ""
 google_site_verification: "oZngwAxqGOAkh3MpZI74p_ABWNEO1ACoRVFIYovrYxQ"
+
 # contact_note: >
 #   You can add a short note about the best way to contact you.
 
@@ -73,8 +74,6 @@ google_analytics:
 cronitor_analytics:
 pirsch_analytics:
 openpanel_analytics:
-
-google_site_verification:
 bing_site_verification:
 
 # -----------------------------------------------------------------------------
