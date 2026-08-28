@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-This page presents selected European research projects in which I have been involved as a member of FBK's Digital Humanities group. Click a project title to visit its webpage.
+This page presents selected European research projects in which I have been involved as a member of FBK's Digital Humanities group. 
 
 ### [AI-CODE ↗](https://aicode-project.eu/)
 
